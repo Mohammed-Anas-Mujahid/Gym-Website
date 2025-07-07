@@ -1,4 +1,4 @@
 A fitness-focused website deployed on Netlify. Includes modern UI and responsive design.
 
 ## 🎥 Website Demo
-https://user-images.githubusercontent.com/84382092/325701723-3ad041ee-b0b2-42ea-9a9c-7b76d76d7f27.mp4
+https://github.com/user-attachments/assets/20e0ccf2-7d03-404a-8cc9-e45c52770d66
