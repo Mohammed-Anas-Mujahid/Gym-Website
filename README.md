@@ -32,7 +32,6 @@ https://github.com/user-attachments/assets/20e0ccf2-7d03-404a-8cc9-e45c52770d66
 ## ✨ Features
 
 - 🔍 Search for exercises by name, body part, or equipment
-- 🧠 Intelligent suggestions and filtering
 - 🏋️ Horizontal scroll menu for body parts
 - 📱 Fully responsive UI (mobile + desktop friendly)
 - 🎨 Modern styling using MUI components
